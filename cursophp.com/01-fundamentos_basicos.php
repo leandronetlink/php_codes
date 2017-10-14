@@ -8,6 +8,7 @@
 
 <?php
 echo "Hello world";
+echo "Is an php teste on github";
 // esse é um file php
 ?>
 
